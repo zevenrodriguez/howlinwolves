@@ -1,0 +1,310 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300);
+.navbar-default {
+  background-color: white;
+  color: #4A623F;
+  padding-top: 10px;
+  padding-bottom: 10px; }
+
+.navbar-default .navbar-brand {
+  color: #4A623F; }
+
+.carousel-indicators {
+  bottom: 50px; }
+
+.work {
+  background-color: black;
+  height: 35px;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-top: 5px;
+  color: white; }
+
+/* ---- grid ---- */
+.grid {
+  /* center */
+  margin: 0 auto; }
+
+/* clearfix */
+.grid:after {
+  content: "";
+  display: block;
+  clear: both; }
+
+/* ---- grid-item ---- */
+.grid-item {
+  width: 303px;
+  height: 293px;
+  float: left;
+  background-color: white;
+  margin-bottom: 50px;
+  border: solid #999;
+  border-width: 0px 3px 3px 0px; }
+
+.grid-item--width2 {
+  width: 650px; }
+
+.grid-item:hover {
+  border: solid #4A623F;
+  border-width: 0px 3px 3px 0px; }
+
+.projectThumb {
+  color: white;
+  font-size: 15px;
+  height: 40px;
+  background-color: #4A623F;
+  padding-left: 5px;
+  padding-top: 5px; }
+
+#carousel-example-generic {
+  display: inline-block; }
+
+/**************************** */
+.carousel {
+  margin: 0 auto; }
+
+/* Plugin styles */
+ul.thumbnails-carousel {
+  padding: 5px 0 0 0;
+  margin: 0;
+  list-style-type: none;
+  text-align: left; }
+
+ul.thumbnails-carousel .center {
+  display: inline-block; }
+
+ul.thumbnails-carousel li {
+  margin-right: 5px;
+  float: left;
+  cursor: pointer; }
+
+.controls-background-reset {
+  background: none !important; }
+
+.active-thumbnail {
+  opacity: 0.4; }
+
+.indicators-fix {
+  bottom: 70px; }
+
+#pSideBar {
+  height: auto;
+  width: auto;
+  color: black;
+  padding: 10px;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  border: solid #4A623F;
+  border-width: 0px 3px 3px 0px; }
+
+#pHeader {
+  text-align: left;
+  font-size: 50px; }
+
+#pCar {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px; }
+
+.container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 468px !important; }
+
+.topCon {
+  margin-top: 100px; }
+
+body {
+  font-family: "Raleway", sans-serif;
+  min-width: 500px; }
+
+h1, h2, h3, h4, h5, h5 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200; }
+
+a {
+  text-decoration: none;
+  color: #4A623F; }
+
+a:hover {
+  color: black;
+  text-decoration: none; }
+
+p {
+  line-height: 30px;
+  font-size: 16px; }
+
+.spacer {
+  margin-bottom: 50px; }
+
+#logoSur {
+  width: 370px;
+  height: 250px;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding-top: 20px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgba(255, 255, 255, 0.1); }
+
+.logoSec {
+  margin-top: 20px; }
+
+#logo {
+  background-image: url("../images/howlinwolveslogo235.png");
+  background-repeat: no-repeat;
+  width: 235px;
+  height: 196px;
+  margin-left: auto;
+  margin-right: auto; }
+
+#whatBox {
+  margin-top: 10px;
+  font-weight: 400; }
+
+.whatIn {
+  width: 100%;
+  margin: 0 auto; }
+
+.whatIcons {
+  margin: 0 auto;
+  width: 262px;
+  height: 260px; }
+
+#projectLabel {
+  margin-top: 50px; }
+
+#pBar {
+  background-color: #4A623F;
+  color: white;
+  width: auto;
+  height: 40px;
+  padding-top: 2px;
+  padding-left: 10px; }
+
+#pTitle {
+  #background-color: #ebffdd;
+  height: 240px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #4A623F;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 22px; }
+
+.pPicture {
+  background-color: green;
+  height: 280px; }
+
+#whoBox {
+  border-style: solid;
+  border-width: 0px;
+  border-color: #4A623F;
+  margin-top: 20px; }
+
+#whoText {
+  line-height: 30px;
+  font-weight: normal; }
+
+#whoSide {
+  font-weight: bold;
+  padding: 10px 10px 0px 10px;
+  margin-top: 0px;
+  border: solid #999;
+  border-width: 0px 3px 3px 0px; }
+
+#whoImg {
+  width: 100%;
+  margin: 0 auto; }
+
+.lProjects {
+  font-size: 20px;
+  color: #4A623F; }
+
+#lpHeader {
+  background-color: #4A623F;
+  color: white;
+  width: auto;
+  height: 40px;
+  padding-left: 10px; }
+
+.findBox {
+  padding-bottom: 20px;
+  color: black;
+  border-radius: 5px;
+  margin-top: 0px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #4A623F; }
+
+#location {
+  color: white; }
+
+#map {
+  margin-top: 20px;
+  width: 100%; }
+
+#smicons {
+  margin-bottom: 20px;
+  padding-top: 10px; }
+
+.fBar {
+  background-color: #4A623F;
+  color: white;
+  width: auto;
+  height: 40px;
+  padding-top: 2px;
+  padding-left: 10px; }
+
+.bar {
+  background-color: #4A623F;
+  color: white;
+  width: auto;
+  height: 40px;
+  padding-top: 2px;
+  padding-left: 10px; }
+
+#iIcon {
+  background-image: url("../images/integration.png"); }
+
+#Icon3d {
+  background-image: url("../images/3dicon.png"); }
+
+#pIcon {
+  background-image: url("../images/programming.png"); }
+
+#fIcon {
+  background-image: url("../images/fab.png"); }
+
+#smicons {
+  width: auto;
+  margin: 10px auto;
+  margin-bottom: 30px; }
+
+.sIcons {
+  width: 19%;
+  height: 40px;
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center; }
+
+.insta {
+  margin-right: 2px; }
+
+#instaBlock {
+  margin-left: 10px;
+  margin-bottom: 0px;
+  margin-top: 20px; }
+
+.site-footer {
+  margin-top: 50px;
+  margin-bottom: 25px; }
+
+#copyright {
+  text-align: center; }
+
+.instaPics {
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px; }
