@@ -1,4 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300);
+
+
 .navbar-default {
   background-color: white;
   color: #4A623F;
@@ -308,3 +310,8 @@ p {
   display: inline-block;
   margin-right: 5px;
   margin-bottom: 5px; }
+
+
+  .item img{
+    width: 100%;
+  }
